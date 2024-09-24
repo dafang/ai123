@@ -21,6 +21,12 @@
 - [智谱 AI 搜索](https://chatglm.cn/main/gdetail/659e54b1b8006379b4b2abd6?lang=zh)
 - [360 AI 搜索](https://so.360.com/?fr=aiso_home_recommend)
 
+## 画图
+
+- [LibLibAI](https://www.liblib.art)
+- [悠船](https://mj.bandeyu.com/)
+- [Whee](https://www.whee.com)
+
 ## 其它工具
 
 - [bibigpt AI音视频助手](https://bibigpt.co/)
