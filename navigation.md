@@ -34,3 +34,5 @@
 ## 其它工具
 
 - [bibigpt AI音视频助手](https://bibigpt.co/)
+- [Fish TTS](https://fish.audio/zh-CN/)
+- [超火 数字人](https://human.zhiboniu.cn/#/szrnews)
